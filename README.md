@@ -1,2 +1,2 @@
-# Astrodynamics_project
-astrodynamics code from university project
+# autonomous drone project
+unfinished code from university project. stuck on serial read for camera data. 
